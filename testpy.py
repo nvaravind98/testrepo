@@ -13,7 +13,7 @@ def prod(val):
  
  
 # initializing list
-test_list = [[1, 4, 5], [2, 3], [4], [46, 7, 3]]
+test_list = [[1, 4, 5], [4, 3], [4], [46, 7, 3]]
  
 # printing original list
 print("The original list : " + str(test_list))
