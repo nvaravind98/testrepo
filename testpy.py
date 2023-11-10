@@ -8,7 +8,7 @@
 def prod(val):
     res = 1
     for ele in val:
-        res *= ele+1
+        res *= ele+1+3
     return res
  
  
